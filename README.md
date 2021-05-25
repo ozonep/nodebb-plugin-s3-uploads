@@ -64,7 +64,7 @@ From the NodeBB Admin panel, you can configure the following settings to be stor
 
 **NOTE: Storing your AWS Credentials in the database is bad practice, and you really shouldn't do it.**
 
-We highly recommend using either **Environment Variables** or **Instance Meta-data** instead.
+We highly recommend using either **Environment Variables** instead.
 
 ## Caveats
 
